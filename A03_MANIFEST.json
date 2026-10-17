@@ -1,0 +1,16 @@
+{
+  "name": "Madreseyar Android teacher A03 native mobile interface - TEST",
+  "base": "A02-FIX03 Kotlin BOM",
+  "changes": [
+    "app/src/main/java/ir/scooljavanrood/madreseyar/teacher/MainActivity.java",
+    "app/src/main/assets/teacher_dashboard.html",
+    "app/src/main/assets/teacher_more.html",
+    "app/src/main/assets/teacher_portal.css",
+    "app/build.gradle",
+    ".github/workflows/build-debug-apk.yml"
+  ],
+  "web_server_modified": false,
+  "data_modified": false,
+  "apk_built": false,
+  "preview": "PREVIEW/A03_DASHBOARD.png, PREVIEW/A03_MORE.png"
+}

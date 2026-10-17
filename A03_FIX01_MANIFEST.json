@@ -1,0 +1,17 @@
+{
+  "project": "Madreseyar Teacher Android",
+  "version": "A03-FIX01-SCREENSHOT",
+  "based_on": "A03_DESIGN6_GITHUB_TEST",
+  "scope": "Android-only",
+  "changes": [
+    "WindowManager FLAG_SECURE allowed in foreground after unlock and secured while background/locked",
+    "versionCode=4",
+    "Artifact name indicates FIX01"
+  ],
+  "files_changed": [
+    "app/src/main/java/ir/scooljavanrood/madreseyar/teacher/MainActivity.java",
+    "app/build.gradle",
+    ".github/workflows/build-debug-apk.yml"
+  ],
+  "status": "SOURCE_ONLY_NOT_APK_TESTED"
+}

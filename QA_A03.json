@@ -1,0 +1,10 @@
+{
+  "version": "A03",
+  "html_links": 32,
+  "unique_routes": 22,
+  "allowlisted_routes": 33,
+  "source_files": 26,
+  "gradle_build_executed": false,
+  "real_device_qa": false,
+  "status": "STATIC_VALIDATION_ONLY"
+}
